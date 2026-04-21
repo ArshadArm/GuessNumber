@@ -1,7 +1,8 @@
 # 🎯 Number Guessing Game (Android - Jetpack Compose)
 
 A modern Android application built using **Jetpack Compose** and **Clean Architecture** principles.
-The app challenges users to guess a randomly generated number within limited attempts based on selected difficulty.
+The app challenges users to guess a randomly generated number within limited attempts based on
+selected difficulty.
 
 ---
 
@@ -145,7 +146,21 @@ com.example.guessnumber
 
 ## 📸 Screenshots
 
-*(Add screenshots here after running the app)*
+### 🏠 Home Screen
+
+![Select_Level_Type](screenshots/Select_Level_Type.png)
+
+### 🎯 Easy Selection
+
+![Attempts](screenshots/Attempts.png)
+
+### 🎮 Gameplay
+
+![Hint](screenshots/Hint.png)
+
+### 🏆 Result Screen
+
+![Won](screenshots/Won.png)
 
 ---
 
